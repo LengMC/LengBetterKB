@@ -1,7 +1,7 @@
 # LengBetterKB
 
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.8.9-brightgreen)](https://www.minecraft.net)
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
+[![License](https://img.shields.io/badge/License-MPL2.0-blue)](LICENSE)
 
 `LengBetterKB` 是一个用于 Minecraft 1.8.9 服务器的插件，旨在优化玩家的击退（KB）体验，并检测异常行为（如 NoKB）。插件会自动调整击退值，检测异常击退行为，并在必要时封禁玩家。
 
