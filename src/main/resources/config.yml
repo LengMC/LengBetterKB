@@ -1,0 +1,14 @@
+# LengBetterKB 配置文件
+
+# 击退设置
+kb:
+  horizontal: 0.4
+  vertical: 0.4
+
+# VL 设置
+vl:
+  threshold: 10.0
+  ban-threshold: 20.0
+
+# 封禁提示
+ban-message: "你因异常击退被封禁。"

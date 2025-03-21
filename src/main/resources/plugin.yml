@@ -1,0 +1,24 @@
+name: LengBetterKB
+version: 1.0
+main: org.leng.LengBetterKB
+api-version: 1.8
+description: 一个优化击退（KB）并检测异常行为的插件，适用于 PvP 服务器。
+author: Leng
+prefix: LengBetterKB
+
+# 插件命令
+commands:
+  lengbetterkb:
+    description: 主命令，用于管理 LengBetterKB 插件。
+    usage: /lengbetterkb <reload|setkb|setvl>
+    aliases: [lbkb]
+    permission: lengbetterkb.admin
+
+# 插件权限
+permissions:
+  lengbetterkb.admin:
+    description: 允许使用 LengBetterKB 的管理命令。
+    default: op
+  lengbetterkb.bypass:
+    description: 允许绕过 LengBetterKB 的检测。
+    default: false
