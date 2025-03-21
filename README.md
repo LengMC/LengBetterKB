@@ -30,7 +30,7 @@
 ## 安装
 
 1. 下载插件：
-   - 从 [Releases](https://github.com/YourName/LengBetterKB/releases) 页面下载最新的 `.jar` 文件。
+   - 从 [Releases](https://github.com/LengMC/LengBetterKB/releases) 页面下载最新的 `.jar` 文件。
 
 2. 安装插件：
    - 将 `LengBetterKB.jar` 放入服务器的 `plugins` 文件夹中。
