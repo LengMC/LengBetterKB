@@ -60,20 +60,4 @@ vl:
 
 # 封禁提示
 ban-message: "你因异常击退被封禁。"
----
-命令
-命令	描述	权限
-/lengbetterkb reload	重载插件配置	lengbetterkb.admin
-/lengbetterkb setkb <horizontal> <vertical>	设置击退值	lengbetterkb.admin
-/lengbetterkb setvl <threshold>	设置 VL 封禁阈值	lengbetterkb.admin
----
-权限
-权限节点	描述	默认值
-lengbetterkb.admin	允许使用管理命令	OP
-lengbetterkb.bypass	允许绕过击退检测	false
----
-开发
-环境要求
- - Java 8 或更高版本
- - Maven 3.x
- - Minecraft 1.8.9 服务端（Spigot 或 Paper）
+
